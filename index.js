@@ -10,3 +10,5 @@ You should NOT try to redefine any of the above variables.
 let newID = 0
 
 const randomNumber = Math.floor(Math.random() * 20) + 1;
+
+const randomUserID = "";
